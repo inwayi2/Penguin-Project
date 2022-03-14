@@ -37,3 +37,56 @@
    We conclude with a discussion of our models.
    
    Like we said earlier, PenguinProjectWalkthrough.ipynb provides a very in-depth walkthrough of our code, this is just a summary of it.
+   
+6. Scope and Limitations:
+
+   This project should not be used to predict penguin species for malicious purposes, and we do not condone any harm towards penguins. Furthermore, this code should not be
+   adapted for malicious purposes which extend past its intended use for penguins.
+   
+   This code is limited and intended to only predict penguin species based on a dataset contained in a csv.
+   
+   Potential extensions could include:
+   
+   Adjusting the class to accept and read data in non-csv formats
+   
+   Creating more functions to produce more models
+   
+   Adapting everything to make predictions of any animal species based on given data.
+   
+   Etc.
+   
+7. License and Terms of Use
+
+   Copyright (c) 2022 Christen Tai, Ryan Voda, Raashi Chaudhari
+
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+
+   The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+   
+   The Palmer Penguins data set was collected by collected by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.
+   
+8. References and Acknowledgement
+
+   Credit to Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network, for the Palmer Penguins data set.
+   
+   Credit to Harlin Lee, Vishnu Bachupally.
+   
+9. The Palmer Penguins data set was collected by collected by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.
+
+10. https://stackoverflow.com/questions/2984888/check-if-file-has-a-csv-format-with-python
+
+   The above link was used to implement Exception handling for ensuring that our given csv file was appropriate. Our code adjusts the code given in the suggestions.
