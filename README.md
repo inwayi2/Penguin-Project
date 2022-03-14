@@ -7,3 +7,7 @@
 4. Instructions on how to install the package requirements: 
 
    conda create --name NEWENV --file requirements.txt
+   
+5. The demo file, PenguinProjectWalkthrough.ipynb, provides a step-by-step walkthrough of what code to run and discussion of what each block of code does.
+
+   It begins with
