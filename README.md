@@ -6,5 +6,4 @@
 
 4. Instructions on how to install the package requirements: 
 
-conda create --name NEWENV --file requirements.txt
-
+   conda create --name NEWENV --file requirements.txt
